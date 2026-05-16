@@ -157,7 +157,7 @@ const arthur = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arthurbarbosadev/arthurbarbosadev/output/github-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/arthurbarbosadev/arthurbarbosadev/output/github-snake-dark.svg?v=2" alt="snake animation" />
 
 </div>
 
