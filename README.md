@@ -38,7 +38,7 @@
 
 ## 🔥 Sobre mim
 
-🔥 **Desenvolvedor Full Stack** apaixonado por construir sistemas que fazem empresas **crescerem na internet**.
+💻 **Desenvolvedor Full Stack** apaixonado por construir sistemas que fazem empresas **crescerem na internet**.
 
 💼 **Fundador & Dev** da **Recuperafy** — construí o SaaS do zero (Backend Node.js + Frontend Vanilla), responsável por 100% da engenharia.
 
