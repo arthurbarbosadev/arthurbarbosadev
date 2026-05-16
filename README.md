@@ -36,9 +36,7 @@
      SOBRE MIM
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Sobre mim
+## 🔥 Sobre mim
 
 🔥 **Desenvolvedor Full Stack** apaixonado por construir sistemas que fazem empresas **crescerem na internet**.
 
@@ -51,8 +49,6 @@
 ⚡ Hard skills em **SaaS, Automações & Marketing Digital**.
 
 📫 **Aberto a oportunidades** — Remoto, Híbrido ou Presencial.
-
-<br clear="right"/>
 
 ```typescript
 const arthur = {
@@ -78,7 +74,7 @@ const arthur = {
      STACK / TECNOLOGIAS
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> Minha Stack
+## 🛠️ Minha Stack
 
 <div align="center">
 
@@ -120,7 +116,7 @@ const arthur = {
      GITHUB STATS
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50"> Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -143,7 +139,7 @@ const arthur = {
      PROJETOS EM DESTAQUE
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -160,24 +156,10 @@ const arthur = {
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗
-     SNAKE ANIMATION
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35"> Contribuições
-
-<div align="center">
-
-<img src="https://github.com/arthurbarbosadev/arthurbarbosadev/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗
      CONTATO
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/Lq2DfsrnDOWdiKowmS/giphy.gif" width="35"> Vamos conversar?
+## 💬 Vamos conversar?
 
 <div align="center">
 
