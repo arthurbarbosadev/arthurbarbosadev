@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:06B6D4,100:22D3EE&height=260&section=header&text=Arthur%20Barbosa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%9A%A1%20SaaS%20%E2%9A%A1%20Automa%C3%A7%C3%B5es&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/arthurbarbosadev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Especialista+em+SaaS+%26+Automa%C3%A7%C3%B5es;Back-end+%2B+Front-end+%2B+DevOps;Transformando+ideias+em+c%C3%B3digo+que+vende+%F0%9F%92%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Especialista+em+SaaS+%26+Automa%C3%A7%C3%B5es;Back-end+%2B+Front-end+%2B+DevOps;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Fundador+da+Recuperafy+%F0%9F%92%BC;Open+to+Work+%E2%9C%85;Transformando+ideias+em+c%C3%B3digo+que+vende+%F0%9F%92%B0" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -78,6 +78,14 @@ const arthur = {
 
 <div align="center">
 
+### ⚡ Showcase animado
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgresql,mysql,supabase,linux,vercel,git,vscode&theme=dark&perline=9" />
+</a>
+
+<br/><br/>
+
 ### 💻 Linguagens
 <img src="https://img.shields.io/badge/TypeScript-00D9FF?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -130,6 +138,40 @@ const arthur = {
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=arthurbarbosadev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+<br/><br/>
+
+### 📈 Atividade ao longo do tempo
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurbarbosadev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=22D3EE&point=06B6D4&area=true&area_color=00D9FF" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     SNAKE ANIMATION
+     ╚══════════════════════════════════════════════════════════════════╝ -->
+
+## 🐍 Contribuições — Snake animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arthurbarbosadev/arthurbarbosadev/output/github-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     QUOTE DINÂMICA
+     ╚══════════════════════════════════════════════════════════════════╝ -->
+
+## 💭 Quote do dia
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
