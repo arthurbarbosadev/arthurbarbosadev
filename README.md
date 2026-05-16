@@ -183,17 +183,32 @@ const arthur = {
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/arthurbarbosadev/area-de-membros">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurbarbosadev&repo=area-de-membros&hide_border=true&title_color=00D9FF&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" />
-</a>
-
-</div>
-
-<br/>
-
-> 🏗️ **Recuperafy** — SaaS desenvolvido 100% do zero, Backend em Node.js + Frontend Vanilla. Atuei como Fundador e único responsável por toda a engenharia.
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🛡️ <a href="https://github.com/arthurbarbosadev/area-de-membros">area-de-membros</a></h3>
+      <p align="left">Área de Membros completa para curso digital, com autenticação Supabase, painel admin e acesso por link único.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-00D9FF?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-06B6D4?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-22D3EE?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <a href="https://github.com/arthurbarbosadev/area-de-membros">
+        <img src="https://img.shields.io/badge/Ver%20no%20GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=00D9FF" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🚀 Recuperafy <sub><sup>(privado)</sup></sub></h3>
+      <p align="left">SaaS desenvolvido 100% do zero como Fundador & único Engenheiro. Backend Node.js + Frontend Vanilla, integrado a VPS e PostgreSQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-00D9FF?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SaaS-22D3EE?style=flat-square" />
+      </p>
+      <img src="https://img.shields.io/badge/Status-Privado-666?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
