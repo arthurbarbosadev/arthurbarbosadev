@@ -1,51 +1,34 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗
-     HEADER — CYBERSEC TERMINAL STYLE
+     HEADER
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:00D9FF,100:00FF41&height=300&section=header&text=Arthur%20Barbosa&fontSize=70&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=%E2%96%88%20Full%20Stack%20Developer%20%E2%96%88%20CyberSec%20%E2%96%88%20SaaS%20Engineer%20%E2%96%88&descAlignY=55&descSize=16&descColor=00D9FF&stroke=00FF41&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00D9FF&height=220&section=header&text=Arthur%20Barbosa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CyberSec%20%7C%20SaaS%20Engineer&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
 
-</div>
-
-<!-- TERMINAL INTRO -->
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   root@arthurbarbosa:~$ whoami                                   │
-│   > Full Stack Developer | CyberSec Enthusiast | SaaS Engineer   │
-│                                                                  │
-│   root@arthurbarbosa:~$ cat /etc/status                          │
-│   > STATUS: Open to Work ✅                                      │
-│   > LOCATION: Barbacena, MG 🇧🇷                                  │
-│   > UPTIME: Loading...                                           │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 <a href="https://github.com/arthurbarbosadev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+./exploit.sh+--mode+fullstack;%24+nmap+-sV+--script+skills+arthurbarbosa;%5BRESULT%5D+Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;%5BRESULT%5D+PostgreSQL+%7C+Supabase+%7C+Linux+%7C+DevOps;%24+cat+%2Fetc%2Fmission;%3E+Transformando+ideias+em+c%C3%B3digo+que+vende+%F0%9F%92%B0;%24+echo+%22Fundador+da+Recuperafy%22+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Especialista+em+SaaS+%26+Automa%C3%A7%C3%B5es;CyberSec+Enthusiast+%F0%9F%94%90;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Fundador+da+Recuperafy+%F0%9F%92%BC;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/arthurbarbosadev">
-  <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/arthurbarbosadev">
-  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:arthurbrasilbarbosa28@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Barbacena%2C%20MG%20%F0%9F%87%A7%F0%9F%87%B7-22D3EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Barbacena%2C%20MG%20%F0%9F%87%A7%F0%9F%87%B7-161b22?style=for-the-badge" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arthurbarbosadev&label=Visitas%20no%20perfil&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/arthurbarbosadev?label=Seguidores&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" />
+<img src="https://komarev.com/ghpvc/?username=arthurbarbosadev&label=Profile%20Views&color=00D9FF&style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/arthurbarbosadev?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117" />
 
 </div>
 
