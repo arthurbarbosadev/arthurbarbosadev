@@ -105,41 +105,6 @@
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗
-     GITHUB STATS (FIXED)
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
-##  Estatísticas
-
-<div align="center">
-
-<a href="https://github.com/arthurbarbosadev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arthurbarbosadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF41&icon_color=00D9FF&text_color=00D9FF&bg_color=0a192f&ring_color=00FF41&cache_seconds=86400" />
-</a>
-<a href="https://github.com/arthurbarbosadev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarbosadev&layout=compact&hide_border=true&title_color=00FF41&text_color=00D9FF&bg_color=0a192f&langs_count=8&cache_seconds=86400" />
-</a>
-
-<br/>
-
-<a href="https://github.com/arthurbarbosadev">
-  <img src="https://streak-stats.demolab.com?user=arthurbarbosadev&theme=dark&hide_border=true&background=0a192f&stroke=00FF41&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=00D9FF&currStreakNum=00FF41&sideNums=00D9FF&dates=1a4a3a" height="180" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arthurbarbosadev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-<br/><br/>
-
-###  Atividade ao longo do tempo
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurbarbosadev&theme=react-dark&hide_border=true&bg_color=0a192f&color=00FF41&line=00D9FF&point=00FF41&area=true&area_color=0a3a2a&custom_title=Contribution%20Graph" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗
      SNAKE ANIMATION
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
