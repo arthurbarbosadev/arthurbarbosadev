@@ -1,13 +1,32 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗
-     HEADER ANIMADO COM GRADIENTE LARANJA
+     HEADER — CYBERSEC TERMINAL STYLE
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:06B6D4,100:22D3EE&height=260&section=header&text=Arthur%20Barbosa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%9A%A1%20SaaS%20%E2%9A%A1%20Automa%C3%A7%C3%B5es&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:00D9FF,100:00FF41&height=300&section=header&text=Arthur%20Barbosa&fontSize=70&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=%E2%96%88%20Full%20Stack%20Developer%20%E2%96%88%20CyberSec%20%E2%96%88%20SaaS%20Engineer%20%E2%96%88&descAlignY=55&descSize=16&descColor=00D9FF&stroke=00FF41&strokeWidth=1" width="100%" />
+
+</div>
+
+<!-- TERMINAL INTRO -->
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   root@arthurbarbosa:~$ whoami                                   │
+│   > Full Stack Developer | CyberSec Enthusiast | SaaS Engineer   │
+│                                                                  │
+│   root@arthurbarbosa:~$ cat /etc/status                          │
+│   > STATUS: Open to Work ✅                                      │
+│   > LOCATION: Barbacena, MG 🇧🇷                                  │
+│   > UPTIME: Loading...                                           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/arthurbarbosadev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Especialista+em+SaaS+%26+Automa%C3%A7%C3%B5es;Back-end+%2B+Front-end+%2B+DevOps;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Fundador+da+Recuperafy+%F0%9F%92%BC;Open+to+Work+%E2%9C%85;Transformando+ideias+em+c%C3%B3digo+que+vende+%F0%9F%92%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+./exploit.sh+--mode+fullstack;%24+nmap+-sV+--script+skills+arthurbarbosa;%5BRESULT%5D+Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;%5BRESULT%5D+PostgreSQL+%7C+Supabase+%7C+Linux+%7C+DevOps;%24+cat+%2Fetc%2Fmission;%3E+Transformando+ideias+em+c%C3%B3digo+que+vende+%F0%9F%92%B0;%24+echo+%22Fundador+da+Recuperafy%22+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -103,29 +122,35 @@
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗
-     GITHUB STATS
+     GITHUB STATS (FIXED)
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
 ##  Estatísticas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arthurbarbosadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00D9FF&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarbosadev&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117&langs_count=8" />
+<a href="https://github.com/arthurbarbosadev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arthurbarbosadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF41&icon_color=00D9FF&text_color=00D9FF&bg_color=0a192f&ring_color=00FF41&cache_seconds=86400" />
+</a>
+<a href="https://github.com/arthurbarbosadev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarbosadev&layout=compact&hide_border=true&title_color=00FF41&text_color=00D9FF&bg_color=0a192f&langs_count=8&cache_seconds=86400" />
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=arthurbarbosadev&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="180" />
+<a href="https://github.com/arthurbarbosadev">
+  <img src="https://streak-stats.demolab.com?user=arthurbarbosadev&theme=dark&hide_border=true&background=0a192f&stroke=00FF41&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=00D9FF&currStreakNum=00FF41&sideNums=00D9FF&dates=1a4a3a" height="180" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arthurbarbosadev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=arthurbarbosadev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 <br/><br/>
 
 ###  Atividade ao longo do tempo
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurbarbosadev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=22D3EE&point=06B6D4&area=true&area_color=00D9FF" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurbarbosadev&theme=react-dark&hide_border=true&bg_color=0a192f&color=00FF41&line=00D9FF&point=00FF41&area=true&area_color=0a3a2a&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
