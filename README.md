@@ -36,9 +36,9 @@
      SOBRE MIM
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 🔥 Sobre mim
+## Sobre mim
 
-💻 **Desenvolvedor Full Stack** apaixonado por construir sistemas que fazem empresas **crescerem na internet**.
+💻 **Dev & CyberSec**.
 
 💼 **Fundador & Dev** da **Recuperafy** — construí o SaaS do zero (Backend Node.js + Frontend Vanilla), responsável por 100% da engenharia.
 
@@ -46,27 +46,9 @@
 
 🌎 Fluente em **Inglês (C2 Proficient — EF SET)** e Intermediário em **Italiano**.
 
-⚡ Hard skills em **SaaS, Automações & Marketing Digital**.
+⚡ Hard skills em **SaaS, Automações, CyberSec Marketing Digital**.
 
 📫 **Aberto a oportunidades** — Remoto, Híbrido ou Presencial.
-
-```typescript
-const arthur = {
-  nome:        "Arthur Barbosa",
-  cargo:       "Full Stack Developer",
-  localizacao: "Barbacena, MG 🇧🇷",
-
-  stack: {
-    backend:  ["Node.js", "Java", "PHP", "PostgreSQL", "SQL"],
-    frontend: ["React", "Next.js", "TypeScript", "HTML", "CSS", "JS"],
-    devops:   ["VPS", "Linux", "Servidores"],
-    extras:   ["SaaS", "Automações", "Marketing Digital"]
-  },
-
-  filosofia: "Código limpo, entrega rápida, resultado real 🚀",
-  status:    "💼 Open to Work — vamos construir algo grande?"
-};
-```
 
 <br/>
 
@@ -74,11 +56,11 @@ const arthur = {
      STACK / TECNOLOGIAS
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 🛠️ Minha Stack
+## Habilidades :p
 
 <div align="center">
 
-### ⚡ Showcase animado
+###
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,js,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgresql,mysql,supabase,linux,vercel,git,vscode&theme=dark&perline=9" />
@@ -86,7 +68,7 @@ const arthur = {
 
 <br/><br/>
 
-### 💻 Linguagens
+### Conhecimento em Linguagens
 <img src="https://img.shields.io/badge/TypeScript-00D9FF?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-22D3EE?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -124,7 +106,7 @@ const arthur = {
      GITHUB STATS
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
@@ -141,7 +123,7 @@ const arthur = {
 
 <br/><br/>
 
-### 📈 Atividade ao longo do tempo
+###  Atividade ao longo do tempo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurbarbosadev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=22D3EE&point=06B6D4&area=true&area_color=00D9FF" width="95%" />
 
@@ -153,7 +135,7 @@ const arthur = {
      SNAKE ANIMATION
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 🐍 Contribuições — Snake animation
+## 🐍 Commits — Snake animation
 
 <div align="center">
 
@@ -167,7 +149,7 @@ const arthur = {
      QUOTE DINÂMICA
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 💭 Quote do dia
+## 💭 Quote :D
 
 <div align="center">
 
@@ -181,36 +163,6 @@ const arthur = {
      PROJETOS EM DESTAQUE
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🛡️ <a href="https://github.com/arthurbarbosadev/area-de-membros">area-de-membros</a></h3>
-      <p align="left">Área de Membros completa para curso digital, com autenticação Supabase, painel admin e acesso por link único.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-00D9FF?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-06B6D4?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-22D3EE?style=flat-square&logo=supabase&logoColor=white" />
-      </p>
-      <a href="https://github.com/arthurbarbosadev/area-de-membros">
-        <img src="https://img.shields.io/badge/Ver%20no%20GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=00D9FF" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🚀 Recuperafy <sub><sup>(privado)</sup></sub></h3>
-      <p align="left">SaaS desenvolvido 100% do zero como Fundador & único Engenheiro. Backend Node.js + Frontend Vanilla, integrado a VPS e PostgreSQL.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-00D9FF?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/SaaS-22D3EE?style=flat-square" />
-      </p>
-      <img src="https://img.shields.io/badge/Status-Privado-666?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗
      CONTATO
@@ -242,6 +194,6 @@ const arthur = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:06B6D4,100:00D9FF&height=120&section=footer&text=Obrigado%20pela%20visita!%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
 
-<sub>⭐ Se curtiu, deixa uma star nos meus repos!</sub>
+<sub> Se curtiu, deixa uma star nos meus repos! 🙃</sub>
 
 </div>
