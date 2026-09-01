@@ -58,8 +58,7 @@
      STACK / TECNOLOGIAS
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## Habilidades :p
-
+## Habilidades ⛏️
 <div align="center">
 
 ###
