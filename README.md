@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://aniquotesapi.vercel.app/v2/image?lang=pt" />
+<img src="https://readme-daily-quotes.vercel.app/api" />
 
 </div>
 
