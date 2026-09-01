@@ -42,15 +42,11 @@
 
 💻 **Dev & CyberSec**.
 
-💼 **Fundador & Dev** da **Recuperafy** — construí o SaaS do zero (Backend Node.js + Frontend Vanilla), responsável por 100% da engenharia.
-
 🎓 Cursando **Bacharelado em Sistemas de Informação** no **IFSUDESTEMG**.
 
-🌎 Fluente em **Inglês (C2 Proficient — EF SET)** e Intermediário em **Italiano**.
+🌎 Fluente em **Inglês (C2 Proficient — EF SET)** e Intermediário em **Italiano** e **Espanhol**.
 
 ⚡ Hard skills em **SaaS, Automações, CyberSec Marketing Digital**.
-
-📫 **Aberto a oportunidades** — Remoto, Híbrido ou Presencial.
 
 <br/>
 
@@ -125,7 +121,7 @@
      QUOTE DINÂMICA
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 💭 Quote :D
+## 📮 Quote 
 
 <div align="center">
 
@@ -148,8 +144,7 @@
 
 <div align="center">
 
-💬 Tem um projeto em mente? Quer construir um SaaS? Precisa automatizar processos?  
-**Bora trocar uma ideia!**
+# Aberto a projetos 🫡
 
 <a href="https://www.linkedin.com/in/arthurbarbosadev">
   <img src="https://img.shields.io/badge/Chamar%20no%20LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
