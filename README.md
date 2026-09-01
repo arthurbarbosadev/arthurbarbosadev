@@ -144,7 +144,6 @@
 
 <div align="center">
 
-# Aberto a projetos 🫡
 
 <a href="https://www.linkedin.com/in/arthurbarbosadev">
   <img src="https://img.shields.io/badge/Chamar%20no%20LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -152,6 +151,8 @@
 <a href="mailto:arthurbrasilbarbosa28@gmail.com">
   <img src="https://img.shields.io/badge/Mandar%20um%20Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+# Aberto a projetos 🫡
 
 </div>
 
