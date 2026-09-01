@@ -166,16 +166,15 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗
      FOOTER
      ╚══════════════════════════════════════════════════════════════════╝ -->
+     
 
-
-<div align="center">
-
-<img src="https://gh-readme-profile.vercel.app/api?username=arthurbarbosadev&theme=dark"/>
-</div>
+  <div align="center">   
+<img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs&languages=javascript,typescript,python&tools=git,docker,vscode&libraries=nodejs,tailwindcss&includeNames=true&theme=darkmode" />
+  </div>
+</br>
+<img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs&languages=javascript,typescript,python&tools=git,docker,vscode&libraries=nodejs,tailwindcss&includeNames=true&theme=darkmode" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:06B6D4,100:00D9FF&height=120&section=footer&text=Obrigado%20pela%20visita!%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
-
-<sub> Se curtiu, deixa uma star nos meus repos! 🙃</sub>
 
 </div>
