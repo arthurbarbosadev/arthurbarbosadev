@@ -44,7 +44,7 @@
 
 💼 **Fundador & Dev** da **Recuperafy** — construí o SaaS do zero (Backend Node.js + Frontend Vanilla), responsável por 100% da engenharia.
 
-🎓 Cursando **Bacharelado em Tecnologia da Informação** no **IFSULMG**.
+🎓 Cursando **Bacharelado em Sistemas de Informação** no **IFSUDESTEMG**.
 
 🌎 Fluente em **Inglês (C2 Proficient — EF SET)** e Intermediário em **Italiano**.
 
