@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://aniquotesapi.vercel.app/v2/image?lang=pt" />
 
 </div>
 
