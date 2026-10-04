@@ -27,7 +27,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arthurbarbosadev&label=Profile%20Views&color=00D9FF&style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/github/followers/arthurbarbosadev?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117" />
 
 </div>
