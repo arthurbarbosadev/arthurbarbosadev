@@ -4,11 +4,11 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00D9FF&height=220&section=header&text=Arthur%20Barbosa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CyberSec%20%7C%20SaaS%20Engineer&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
 
 <br/>
 
 <a href="https://github.com/arthurbarbosadev">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Especialista+em+SaaS+%26+Automa%C3%A7%C3%B5es;CyberSec+Enthusiast+%F0%9F%94%90;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Fundador+da+Recuperafy+%F0%9F%92%BC;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
