@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00D9FF&height=220&section=header&text=Arthur%20Barbosa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CyberSec%20%7C%20SaaS%20Engineer&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
 
 <br/>
 
